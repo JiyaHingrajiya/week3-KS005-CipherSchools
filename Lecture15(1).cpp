@@ -32,3 +32,9 @@ int main(){
         i++;
     }
 }
+
+/*
+string name;
+cin>>name;
+cout<<name;
+*/
